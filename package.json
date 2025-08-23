@@ -1,7 +1,7 @@
 {
     "name": "com.freakshowstudio.ucb-environment",
     "displayName": "UCB Environment",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "6000.0",
     "description": "Provides access to Unity Cloud Build Environment",
     "keywords": [
