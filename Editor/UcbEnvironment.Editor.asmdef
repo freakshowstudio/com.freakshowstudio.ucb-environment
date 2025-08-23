@@ -1,5 +1,5 @@
 {
-    "name": "UCBEnvironment.Editor",
+    "name": "UcbEnvironment.Editor",
     "rootNamespace": "UcbEnvironment",
     "includePlatforms": [
         "Editor"
