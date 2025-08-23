@@ -4,7 +4,11 @@
     "version": "1.0.0",
     "unity": "6000.0",
     "description": "Provides access to Unity Cloud Build Environment",
-    "keywords": ["cloud", "build", "environment"],
+    "keywords": [
+        "cloud",
+        "build",
+        "environment"
+    ],
     "category": "Scripting",
-    "dependencies": { }
+    "dependencies": {}
 }
