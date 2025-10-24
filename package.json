@@ -1,7 +1,7 @@
 {
     "name": "com.freakshowstudio.ucb-environment",
     "displayName": "UCB Environment",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "unity": "6000.0",
     "description": "Provides access to Unity Cloud Build Environment",
     "keywords": [
@@ -12,12 +12,12 @@
     "category": "Scripting",
     "dependencies": {},
     "author": {
-      "name": "Freakshow Studio AS",
-      "url": "https://github.com/freakshowstudio"
+        "name": "Freakshow Studio AS",
+        "url": "https://github.com/freakshowstudio"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/freakshowstudio/com.freakshowstudio.ucb-environment"
+        "type": "git",
+        "url": "https://github.com/freakshowstudio/com.freakshowstudio.ucb-environment"
     },
     "license": "MIT"
 }

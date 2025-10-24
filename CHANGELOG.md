@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/freakshowstudio/com.freakshowstudio.ucb-environment/compare/v1.0.1...v1.0.2) (2025-10-24)
+
+
+### Bug Fixes
+
+* Add package author ([892b66d](https://github.com/freakshowstudio/com.freakshowstudio.ucb-environment/commit/892b66dc4711aa6b7287e998c19fad46fb3c22bc))
+
 ## [1.0.1](https://github.com/freakshowstudio/com.freakshowstudio.ucb-environment/compare/v1.0.0...v1.0.1) (2025-08-23)
 
 
